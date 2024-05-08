@@ -8,5 +8,7 @@ public class Main {
         app.bookHotel(98765432, "Martin Nadine", "London", "2022-09-01", "2022-09-05", 1, 100.00);
         // Cancel a flight or hotel reservation based on reservation number
         app.cancelReservation(12345670);
+
+        System.out.println("sadhagsda");
     }
 }
